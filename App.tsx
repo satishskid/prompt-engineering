@@ -134,19 +134,8 @@ const App: React.FC = () => {
                 <h2 className="text-3xl font-bold text-slate-800 mb-4">
                   Welcome to the Prompt Engineering Handbook
                 </h2>
-                <p className="text-lg text-slate-600 mb-4">
-                  Sign in with your Google account to access the complete interactive course and track your progress through the professional prompt engineering curriculum.
-                </p>
-                <div className="mb-4 p-4 bg-sky-50 rounded-lg border border-sky-200">
-                  <p className="text-sm text-sky-700 font-medium">
-                    ✨ Quick & Easy Sign-In with Google
-                  </p>
-                  <p className="text-xs text-sky-600 mt-1">
-                    No phone number required - just use your Google account
-                  </p>
-                </div>
-                <p className="text-sm text-slate-500">
-                  Click "Sign In" in the header to get started with learning AI prompt engineering.
+                <p className="text-lg text-slate-600 mb-6">
+                  Sign in to access the complete interactive course and track your progress through the professional prompt engineering curriculum.
                 </p>
               </div>
             </div>
